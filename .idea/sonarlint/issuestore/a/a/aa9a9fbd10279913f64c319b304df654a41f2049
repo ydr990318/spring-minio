@@ -1,0 +1,11 @@
+
+	java:S112&"FDefine and throw a dedicated exception instead of using a generic one.(»ÃÑ³øÿÿÿÿ8…”Ì¤ğ1J$83e0432e-4b97-41d5-82d4-ee95e4a9d66c
+ˆ	java:S1123"FDefine and throw a dedicated exception instead of using a generic one.(Œ¿Üï8†”Ì¤ğ1J$a2a2504e-4525-4575-98c7-054b277d9f27
+	java:S1129"FDefine and throw a dedicated exception instead of using a generic one.(Á•¯²üÿÿÿÿ8‡”Ì¤ğ1J$1c14766c-f403-4527-9c3e-2a708a414c01
+	java:S112B"FDefine and throw a dedicated exception instead of using a generic one.(»ÃÑ³øÿÿÿÿ8‰”Ì¤ğ1J$09346b24-2ad0-4df3-b0cf-33039e02c098
+	java:S112O"FDefine and throw a dedicated exception instead of using a generic one.(†é²Äÿÿÿÿÿ8Š”Ì¤ğ1J$4827ce2d-3d44-4796-ae68-657c39a7718f
+ˆ	java:S112V"FDefine and throw a dedicated exception instead of using a generic one.(èäÏ8Š”Ì¤ğ1J$983f2cbe-a800-4020-922f-2918d3b11c30
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8¡”Ì¤ğ1J$8b5731a3-a3bc-4d73-bf7b-fed4538256a3
+´
+java:S11309"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(Á•¯²üÿÿÿÿ8ª”Ì¤ğ1J$55d5e216-c51d-43dc-ba0c-546a996cc6e7

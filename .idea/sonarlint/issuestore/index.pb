@@ -1,0 +1,23 @@
+
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+Z
+*src/main/java/boot/spring/Application.java,c\5\c53fd718881a1b824b46844cef347e94a74718de
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+h
+8src/main/java/boot/spring/controller/FileController.java,a\a\aa9a9fbd10279913f64c319b304df654a41f2049
+W
+'src/main/java/boot/spring/Swagger2.java,4\0\4078f9c5be2292c924b445fda7bfe5c20ad759ea
+c
+3src/main/java/boot/spring/service/MinIOService.java,a\e\ae521b713c9bcf1977d0e9f466c37d62a251532d
+l
+<src/main/java/boot/spring/service/impl/MinIOServiceImpl.java,1\6\16b6a1566f971642b968d931e080f70f1a5ca37a
+`
+0src/main/java/boot/spring/domain/AjaxResult.java,3\8\38e994a9cf74bd2fa7a1db9a0bb40ffb9c884d71
+^
+.src/main/java/boot/spring/domain/Fileinfo.java,1\d\1df768608ec95eed3e5e61af7a4a58a07f1cb9e9
+`
+0src/main/java/boot/spring/config/CorsConfig.java,d\a\dafc71359a86746f0cd6f051a6ad50d534227767
+a
+1src/main/java/boot/spring/config/MinioConfig.java,7\2\729e959f8100a74f9dd7ff582409a5c1665cdc4a

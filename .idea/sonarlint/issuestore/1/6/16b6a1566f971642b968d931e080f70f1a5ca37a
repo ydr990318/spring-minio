@@ -1,0 +1,15 @@
+
+¡
+java:S1488m"^Immediately return this expression instead of assigning it to the temporary variable "stream".(Äº‚É8¼•¶¤ð1J$cf88e165-11ea-484e-80ee-a463fb80fa58
+…
+java:S6813)"BRemove this field injection and use constructor injection instead.(êæÄÞ8Ý•¶¤ð1J$a44c9cde-2235-4e67-ad43-3dad4c4d9501
+o
+java:S1602J",Remove useless curly braces around statement(££’ˆ8î•¶¤ð1J$c0129301-94a7-4bc3-8970-33e49f84bf62
+o
+java:S1128"-Remove this unused import 'org.slf4j.Logger'.(íØ®68ÕÃ¨¦ð1J$b58a9b4d-0364-44f3-a92c-6d1c8169f7e0
+w
+java:S1128"4Remove this unused import 'org.slf4j.LoggerFactory'.(–ÿÚÞ8ÖÃ¨¦ð1J$6220c4a2-9c21-4d04-9617-02d8ccb68d9f
+y
+java:S1128#"6Remove this unused import 'io.minio.UploadObjectArgs'.(àÜÞ¯8ÖÃ¨¦ð1J$4fef8876-0dd9-4161-a19b-b18809214931
+ƒ
+java:S1128$";Remove this unused import 'io.minio.errors.MinioException'.(­öÑ–üÿÿÿÿ8×Ã¨¦ð1J$2343340e-7e96-44e5-84f1-779f62a75d8d
